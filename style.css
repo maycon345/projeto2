@@ -21,6 +21,7 @@ body {
     background-image: url("img/Background.png");
     background-repeat: no-repeat;
     backgroundalign-items: center;
+    align-items: center;
     text-align: center;-size: contain;
 
 }
