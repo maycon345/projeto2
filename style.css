@@ -29,6 +29,7 @@ body {
 }
 
 .container__botao {
+    margin-bottom: 1em;
     background-color: var(--botao-azul);
     border-radius: 5px;
     padding: 1em;
