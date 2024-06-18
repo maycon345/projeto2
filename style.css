@@ -54,6 +54,15 @@ body {
         align-items: center;
         text-align: center;
     }
+    .secundario__imagem {
+        width: 80%;
+    }
+    .secundario {
+        align-items: center;
+        margin: 0 10em;
+    }
+  
+  
     
     
 
