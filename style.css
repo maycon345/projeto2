@@ -17,14 +17,7 @@ body {
     font-size: 16px;
     font-weight: 400;
 }
-.principal {
-    background-image: url("img/Background.png");
-    background-repeat: no-repeat;
-    backgroundalign-items: center;
-    align-items: center;
-    text-align: center;-size: contain;
 
-}
 .container {
     height: 100vh;
     display: grid;
@@ -54,6 +47,14 @@ body {
     .container__caixa {
         margin: 0 6em;
     }
+    .principal {
+        background-image: url("img/Background.png");
+        background-repeat: no-repeat;
+        background-size: contain;
+        align-items: center;
+        text-align: center;
+    }
+    
     
 
 
