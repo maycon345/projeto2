@@ -74,6 +74,16 @@ body {
         font-size: 48px;
         color: var(--branco-principal);
     }
+    .lista__link a{
+        text-decoration: none;
+        color: var(--branco-principal);
+        margin-left: 1em;
+    }
+    .rodape__texto {
+        margin: 1em 0;
+        color: var(--cinza-secundario);
+        font-size: 14px;
+    }
     
   
   
